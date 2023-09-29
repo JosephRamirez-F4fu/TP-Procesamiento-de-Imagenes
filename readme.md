@@ -13,6 +13,8 @@
 instalar depencias con conda
 ````pycon
 conda create --name <environment_name> --file requirements.txt
+conda install pip
+pip install -r requirements.txt
 ````
 instalar dependencias con pip
 ````pycon
@@ -21,10 +23,12 @@ python -m venv env
 pip install -r requirements.txt
 ````
 
-1.descargar video 
+1.descargar video debido al tamaño ya que excede los 100MB de limte de github
 ````pycon
 gdown 1cpZBv1CPcyDbC4Y1KukvVYoFgKHU5LZT
 ````
+enlace del video en drive https://drive.google.com/file/d/1cpZBv1CPcyDbC4Y1KukvVYoFgKHU5LZT/view?usp=drive_link
+
 2. compilar get_zones.py
 3. compilar main.py
 
