@@ -13,8 +13,6 @@
 instalar depencias con conda
 ````pycon
 conda create --name <environment_name> --file requirements.txt
-conda install pip
-pip install -r requirements.txt
 ````
 instalar dependencias con pip
 ````pycon
