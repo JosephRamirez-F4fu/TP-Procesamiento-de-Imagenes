@@ -1,5 +1,4 @@
 beautifulsoup4==4.12.2
-certifi @ file:///croot/certifi_1671487769961/work/certifi
 charset-normalizer==3.2.0
 cvzone==1.6.1
 filelock==3.12.4
